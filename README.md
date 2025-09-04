@@ -4,23 +4,6 @@
 
 Me chamo Matheus Carlos de Almeida, tenho 26 anos. Concluí o ensino superior em comércio exterior, mas, atualmente, estou cursando/estudando Engenharia de software na Alura. Sou apaixonado por tecnologia e compartilho minhas conquistas e desafios concluídos também no meu linkedin "[Matheus Carlos]([https://www.youtube.com/@larissakich](https://www.linkedin.com/in/matheus-almeida-497050244))". No momento estou gostando cada vez mais de me especiliazar em Java, porém, minha primeira linguagem foi javascript, e até o momento, a que mais gosto é python, onde aprendi muito sobre todas as áreas que essa linguagem aborda.
 
-<p align="left">
-    <a href="https://github.com/Matheuszy?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Matheuszy?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
