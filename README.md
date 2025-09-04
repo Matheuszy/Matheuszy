@@ -21,6 +21,12 @@ Tenho experiência com diversas ferramentas e tecnologias, essenciais para o cic
 
 ---
 
+### Minhas Estatísticas no GitHub
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/SEU_USUARIO_AQUI)
+
+---
+
 ### Conecte-se comigo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-almeida-497050244)
