@@ -2,7 +2,7 @@
 
 **`Desenvolvedor backend/DevOps`**
 
-Me chamo Matheus Carlos de Almeida, tenho 26 anos. Concluí o ensino superior em comércio exterior, mas, atualmente, estou cursando/estudando Engenharia de software na Alura. Sou apaixonado por tecnologia e compartilho minhas conquistas e desafios concluídos também no meu linkedin "[Matheus Carlos]([https://www.youtube.com/@larissakich](https://www.linkedin.com/in/matheus-almeida-497050244))". No momento estou gostando cada vez mais de me especiliazar em Java, porém, minha primeira linguagem foi javascript, e até o momento, a que mais gosto é python, onde aprendi muito sobre todas as áreas que essa linguagem aborda.
+Me chamo Matheus Carlos de Almeida, tenho 26 anos. Concluí o ensino superior em comércio exterior, mas, atualmente, estou cursando/estudando Engenharia de software na Alura. Sou apaixonado por tecnologia e compartilho minhas conquistas e desafios concluídos também no meu linkedin "[Matheus Carlos](https://www.linkedin.com/in/matheus-almeida-497050244))". No momento estou gostando cada vez mais de me especiliazar em Java, porém, minha primeira linguagem foi javascript, e até o momento, a que mais gosto é python, onde aprendi muito sobre todas as áreas que essa linguagem aborda.
 
 ---
 
