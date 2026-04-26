@@ -1,7 +1,7 @@
 # Matheus Carlos
 
 **`Desenvolvedor backend/DevOps`**
-Me chamo Matheus Carlos de Almeida, tenho 26 anos e sou estudante de Engenharia de Software, focado em desenvolvimento backend e construção de sistemas escaláveis.
+Me chamo Matheus Carlos de Almeida, tenho 26 anos e sou estudante de Ciência da computação, focado em desenvolvimento backend e construção de sistemas escaláveis.
 
 Atualmente, estou me aprofundando em Java, com foco em boas práticas, estruturas de dados, APIs e arquitetura de sistemas.
 
