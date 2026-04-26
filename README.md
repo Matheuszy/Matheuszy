@@ -5,7 +5,7 @@ Sou estudante de Ciência da Computação, com foco em engenharia de software e 
 
 Tenho direcionado minha formação para construção de sistemas escaláveis, APIs robustas e soluções orientadas a dados, unindo fundamentos sólidos com aplicação prática.
 
-Minha base técnica começou com JavaScript, evoluiu para Python — onde desenvolvi projetos envolvendo automação, análise de dados e aplicações com inteligência artificial — e hoje estou aprofundando meus conhecimentos em Java, com foco em arquitetura, performance e boas práticas de engenharia.
+Minha base técnica começou com JavaScript, evoluiu para Python, onde desenvolvi projetos envolvendo automação, análise de dados e aplicações com inteligência artificial, e hoje estou aprofundando meus conhecimentos em Java, com foco em arquitetura, performance e boas práticas de engenharia.
 
 Busco constantemente ir além do básico: não apenas aprender tecnologias, mas entender como sistemas funcionam em escala, como são projetados e como gerar impacto real com software. "[Matheus Carlos](https://www.linkedin.com/in/matheus-almeida-497050244)".
 
