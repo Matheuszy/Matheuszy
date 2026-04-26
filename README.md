@@ -1,13 +1,13 @@
 # Matheus Carlos
 
 **`Desenvolvedor backend/DevOps`**
-Me chamo Matheus Carlos de Almeida, tenho 26 anos e sou estudante de Ciência da computação, focado em desenvolvimento backend e construção de sistemas escaláveis.
+Sou estudante de Ciência da Computação, com foco em engenharia de software e desenvolvimento backend.
 
-Atualmente, estou me aprofundando em Java, com foco em boas práticas, estruturas de dados, APIs e arquitetura de sistemas.
+Tenho direcionado minha formação para construção de sistemas escaláveis, APIs robustas e soluções orientadas a dados, unindo fundamentos sólidos com aplicação prática.
 
-Minha primeira linguagem foi JavaScript, e hoje também utilizo Python, linguagem com a qual mais me identifico, explorando áreas como automação, análise de dados e inteligência artificial.
+Minha base técnica começou com JavaScript, evoluiu para Python — onde desenvolvi projetos envolvendo automação, análise de dados e aplicações com inteligência artificial — e hoje estou aprofundando meus conhecimentos em Java, com foco em arquitetura, performance e boas práticas de engenharia.
 
-Sou apaixonado por tecnologia e aprendizado contínuo, e compartilho minha evolução, projetos e desafios no LinkedIn: "[Matheus Carlos](https://www.linkedin.com/in/matheus-almeida-497050244)".
+Busco constantemente ir além do básico: não apenas aprender tecnologias, mas entender como sistemas funcionam em escala, como são projetados e como gerar impacto real com software. "[Matheus Carlos](https://www.linkedin.com/in/matheus-almeida-497050244)".
 
 ---
 
