@@ -19,8 +19,7 @@
 ### 🚀 Projetos
 
 **Projeto Basilico — Management API**
-API RESTful em Java 17 com Spring Boot, Hibernate/JPA e PostgreSQL/MySQL (Railway + Supabase). Arquitetura Hexagonal, Clean Code e SOLID. Cobertura de testes com JUnit e Mockito.
-
+API RESTful em Java 17 com Spring Boot seguindo Arquitetura Hexagonal, SOLID e Clean Code. Implementa autenticação JWT, persistência com PostgreSQL/MySQL, testes automatizados e arquitetura preparada para evolução e escalabilidade.
 `Java 17` `Spring Boot` `Hibernate/JPA` `PostgreSQL` `JUnit` `Mockito` `Railway`
 
 ---
@@ -40,6 +39,53 @@ Pipelines CI/CD com GitHub Actions, Docker, mensageria assíncrona com RabbitMQ 
 - 📋 **Gestão Ágil** — Scrum/Kanban via Jira para entregas previsíveis
 
 ---
+
+---
+
+🏆 Certifications
+
+AWS Certified Cloud Practitioner (em andamento)
+
+AWS AI Practitioner (planejado)
+
+Oracle Java Foundations (planejado)
+
+---
+
+## 🚀 Featured Projects
+
+### 🟢 Basilico
+REST API desenvolvida com Java 17, Spring Boot, Hibernate/JPA e PostgreSQL, seguindo Arquitetura Hexagonal, SOLID e Clean Code.
+
+🔗 https://github.com/Matheuszy/Basilico
+
+---
+
+### 🟢 Multi-Tenant Inventory & POS System
+Sistema de Gestão de Estoque e PDV multi-tenant desenvolvido em Java e Spring Boot.
+
+🔗 https://github.com/Codex-System/Sistema-de-estoque
+
+---
+
+### 🟢 Java Microservices
+Coleção de microsserviços desenvolvidos em Java utilizando arquitetura distribuída.
+
+🔗 https://github.com/Matheuszy/microsservi-os-java
+
+---
+
+### 🔵 Sentinel - Fraud Detection
+Sistema de detecção de fraude utilizando Python, Machine Learning e análise de dados.
+
+🔗 https://github.com/Matheuszy/Projeto-sentinel
+
+---
+
+### 🟣 Credit Prediction & Data Analytics
+Projeto de análise de dados e previsão de crédito utilizando Python, SQL e Machine Learning.
+
+🔗 https://github.com/Matheuszy/projeto-ML-previsao-dados-credito
 
 ### 🤖 Stack
 
@@ -85,13 +131,6 @@ Pipelines CI/CD com GitHub Actions, Docker, mensageria assíncrona com RabbitMQ 
 
 ### 📊 Estatísticas
 
-<p>
-  <img align="left"
-     alt="GitHub Stats"
-     height="200"
-     src="https://github-readme-stats.vercel.app/api?username=Matheuszy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" />
-  <img align="left"
-     alt="Top Languages"
-     height="200"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuszy&layout=compact&langs_count=8&theme=tokyonight&hide=html,css" />
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheuszy&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
