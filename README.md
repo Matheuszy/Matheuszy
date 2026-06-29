@@ -2,7 +2,7 @@
 
 **`Java/Python Developer | CX Data Analyst`**
 
-> Estudante de Ciência da Computação com MBA em Gestão de Projetos, buscando Estágio ou vaga de Java Jr. Atuo como CX Data Analyst, usando SQL e Python para transformar dados em decisões de negócio. Foco em arquitetura limpa, observabilidade e impacto real.
+> Estudante de Ciência da Computação com MBA em Gestão de Projetos, buscando Estágio ou vaga de Java/python Jr. Atuo como CX Data Analyst, usando SQL e Python para transformar dados em decisões de negócio. Foco em arquitetura limpa, observabilidade e impacto real.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/matheus-almeida-497050244)
 
