@@ -18,8 +18,8 @@ Pipelines CI/CD com GitHub Actions, containerização com Docker, mensageria ass
 💡 Skills
 
 
-Comunicação & Negócio — Tradução de requisitos complexos de stakeholders em soluções técnicas claras (MBA em Gestão de Projetos)
-Resolução de Problemas — Uso de SQL, Python e métricas de observabilidade para investigar causas-raiz e otimizar lógica de código
+Comunicação & Negócio. Tradução de requisitos complexos de stakeholders em soluções técnicas claras (MBA em Gestão de Projetos)
+Resolução de Problemas. Uso de SQL, Python e métricas de observabilidade para investigar causas-raiz e otimizar lógica de código
 Foco no Cliente — Vivência em CX que garante o design de APIs estáveis voltadas à melhor experiência do usuário
 Gestão Ágil — Organização de entregas usando Scrum/Kanban via Jira
 
