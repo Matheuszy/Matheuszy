@@ -1,6 +1,6 @@
 # Matheus Carlos
 
-**`Java/Python Developer | CX Data Analyst`**
+**`Backend Software Engineer | Java • Kotlin • Python`**
 
 > Estudante de Ciência da Computação com MBA em Gestão de Projetos, buscando Estágio ou vaga de Java/python Jr. Atuo como CX Data Analyst, usando SQL e Python para transformar dados em decisões de negócio. Foco em arquitetura limpa, observabilidade e impacto real.
 
@@ -90,6 +90,8 @@ Projeto de análise de dados e previsão de crédito utilizando Python, SQL e Ma
 ### 🤖 Stack
 
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+
+<img align="left" alt="Kotlin" title="Kotlin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
 
 <img align="left" alt="Spring" title="Spring Boot" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
 
