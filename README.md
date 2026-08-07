@@ -1,138 +1,196 @@
-# Matheus Carlos
+<div align="center">
 
-**`Backend Software Engineer | Java • Kotlin • Python`**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Matheus%20Carlos&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer%20%7C%20Java%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Python&descAlignY=58&descSize=18" width="100%"/>
 
-> Estudante de Ciência da Computação com MBA em Gestão de Projetos, buscando Estágio ou vaga de Java/kotlin/python Jr. Atuo como CX Data Analyst, usando SQL e Python para transformar dados em decisões de negócio. Foco em arquitetura limpa, observabilidade e impacto real.
+<a href="https://www.linkedin.com/in/matheus-almeida-497050244">
+  <img src="https://img.shields.io/badge/LinkedIn-conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=Matheuszy&style=for-the-badge&color=302b63&label=VISITAS"/>
 
-🔗 [LinkedIn](https://www.linkedin.com/in/matheus-almeida-497050244)
+</div>
 
----
+<br/>
 
-### 🟢 Atualmente
+<div align="center">
 
-| Estudando | Lendo | Buscando |
-|-----------|-------|----------|
-| Spring Security + JWT · Kafka · DDD | Designing Data-Intensive Applications | Estágio ou Java Jr · backend |
+\`\`\`
+$ whoami
+> Estudante de Ciência da Computação | MBA em Gestão de Projetos
+> Atuo como CX Data Analyst — SQL & Python transformando dados em decisão de negócio
+> Buscando: Estágio ou vaga Java / Kotlin / Python Jr.
+> Foco: arquitetura limpa · observabilidade · impacto real
+\`\`\`
 
----
+</div>
 
-### 🚀 Projetos
+<br/>
 
-**Projeto Basilico — Management API**
-API RESTful em Java 17 com Spring Boot seguindo Arquitetura Hexagonal, SOLID e Clean Code. Implementa autenticação JWT, persistência com PostgreSQL/MySQL, testes automatizados e arquitetura preparada para evolução e escalabilidade.
+## 🟢 Radar atual
+
+<div align="center">
+
+| 📚 Estudando | 📖 Lendo | 🎯 Buscando |
+|:---:|:---:|:---:|
+| Spring Security + JWT · Kafka · DDD | *Designing Data-Intensive Applications* | Estágio ou vaga Java Jr · Backend |
+
+</div>
+
+<br/>
+
+## 🚀 Projetos em destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🟢 Basilico — Management API
+API RESTful em **Java 17** com **Spring Boot**, seguindo **Arquitetura Hexagonal**, SOLID e Clean Code. Autenticação JWT, persistência PostgreSQL/MySQL, testes automatizados e arquitetura pronta para escalar.
+
 `Java 17` `Spring Boot` `Hibernate/JPA` `PostgreSQL` `JUnit` `Mockito` `Railway`
 
----
+<a href="https://github.com/Matheuszy/Basilico">🔗 Ver repositório</a>
 
-**DevOps, Cloud & Observabilidade**
-Pipelines CI/CD com GitHub Actions, Docker, mensageria assíncrona com RabbitMQ e AWS EC2 com Nginx como API Gateway/Load Balancer. Monitoramento em tempo real com Prometheus, Grafana e OpenTelemetry.
+</td>
+<td width="50%" valign="top">
 
-`GitHub Actions` `Docker` `RabbitMQ` `AWS EC2` `Nginx` `Prometheus` `Grafana` `OpenTelemetry`
+### 🟣 Multi-Tenant Inventory & POS
+Sistema de Gestão de Estoque e PDV **multi-tenant**, desenvolvido em Java e Spring Boot, pensado para múltiplos clientes isolados em uma única aplicação.
 
----
+`Java` `Spring Boot` `Multi-tenancy` `PostgreSQL`
 
-### 💡 Diferenciais
+<a href="https://github.com/Codex-System/Sistema-de-estoque">🔗 Ver repositório</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔵 Sentinel — Fraud Detection
+Sistema de detecção de fraude usando **Python** e **Machine Learning**, com pipeline de análise de dados para identificação de padrões suspeitos.
+
+`Python` `Machine Learning` `Data Analysis`
+
+<a href="https://github.com/Matheuszy/Projeto-sentinel">🔗 Ver repositório</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🟡 Credit Prediction & Analytics
+Análise de dados e previsão de crédito com **Python**, **SQL** e **Machine Learning**, aplicando modelos preditivos sobre dados reais de risco.
+
+`Python` `SQL` `Machine Learning`
+
+<a href="https://github.com/Matheuszy/projeto-ML-previsao-dados-credito">🔗 Ver repositório</a>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🧩 Ver mais — Java Microservices</b></summary>
+<br/>
+
+Coleção de microsserviços desenvolvidos em **Java**, explorando arquitetura distribuída e comunicação entre serviços.
+
+`Java` `Microservices` `Distributed Systems`
+
+🔗 https://github.com/Matheuszy/microsservi-os-java
+
+</details>
+
+<br/>
+
+## ⚙️ DevOps, Cloud & Observabilidade
+
+<div align="center">
+
+Pipelines **CI/CD** com GitHub Actions · Containers com **Docker** · Mensageria assíncrona com **RabbitMQ**
+Deploy em **AWS EC2** com **Nginx** como API Gateway/Load Balancer
+Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 💡 Diferenciais
 
 - 💼 **Negócio + Técnica** — MBA em Gestão de Projetos: traduzo requisitos de stakeholders em soluções claras
 - 📊 **Data-Driven** — SQL, Python e observability stack para investigar causas-raiz e otimizar código
 - 👥 **Foco no usuário** — Vivência em CX garante APIs estáveis e experiência de qualidade
 - 📋 **Gestão Ágil** — Scrum/Kanban via Jira para entregas previsíveis
 
----
+<br/>
 
----
+## 🏆 Certificações
 
-🏆 Certifications
+| Certificação | Status |
+|---|---|
+| AWS Certified Cloud Practitioner | 🟡 Em andamento |
+| AWS AI Practitioner | ⚪ Planejado |
+| Oracle Java Foundations | ⚪ Planejado |
 
-AWS Certified Cloud Practitioner (em andamento)
+<br/>
 
-AWS AI Practitioner (planejado)
-
-Oracle Java Foundations (planejado)
-
----
-
-## 🚀 Featured Projects
-
-### 🟢 Basilico
-REST API desenvolvida com Java 17, Spring Boot, Hibernate/JPA e PostgreSQL, seguindo Arquitetura Hexagonal, SOLID e Clean Code.
-
-🔗 https://github.com/Matheuszy/Basilico
-
----
-
-### 🟢 Multi-Tenant Inventory & POS System
-Sistema de Gestão de Estoque e PDV multi-tenant desenvolvido em Java e Spring Boot.
-
-🔗 https://github.com/Codex-System/Sistema-de-estoque
-
----
-
-### 🟢 Java Microservices
-Coleção de microsserviços desenvolvidos em Java utilizando arquitetura distribuída.
-
-🔗 https://github.com/Matheuszy/microsservi-os-java
-
----
-
-### 🔵 Sentinel - Fraud Detection
-Sistema de detecção de fraude utilizando Python, Machine Learning e análise de dados.
-
-🔗 https://github.com/Matheuszy/Projeto-sentinel
-
----
-
-### 🟣 Credit Prediction & Data Analytics
-Projeto de análise de dados e previsão de crédito utilizando Python, SQL e Machine Learning.
-
-🔗 https://github.com/Matheuszy/projeto-ML-previsao-dados-credito
-
-### 🤖 Stack
-
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-
-<img align="left" alt="Kotlin" title="Kotlin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
-
-<img align="left" alt="Spring" title="Spring Boot" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
-
-<img align="left" alt="Hibernate" title="Hibernate" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"/>
-
-<img align="left" alt="Maven" title="Maven" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"/>
-
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-
-<img align="left" alt="FastAPI" title="FastAPI" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
-
-<img align="left" alt="Flask" title="Flask" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
-
-<img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-
-<img align="left" alt="Oracle" title="Oracle Database" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"/>
-
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-
-<img align="left" alt="Kubernetes" title="Kubernetes" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"/>
-
-<img align="left" alt="RabbitMQ" title="RabbitMQ" width="30px" style="padding-right: 10px;" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"/>
-
-<img align="left" alt="Apache Kafka" title="Apache Kafka" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"/>
-
-<img align="left" alt="AWS" title="AWS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-
-<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-
-<img align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
-
-<br/><br/>
-
----
-
-### 📊 Estatísticas
+## 🤖 Stack
 
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheuszy&theme=tokyonight" alt="GitHub Streak Stats" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" title="Hibernate" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" title="Maven" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" title="RabbitMQ" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" title="Kafka" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="40" height="40"/>
+
+</div>
+
+<br/>
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Matheuszy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuszy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="34%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheuszy&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="65%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheuszy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" width="90%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
+
+*"Código limpo é a diferença entre resolver um problema e criar o próximo."*
+
 </div>
