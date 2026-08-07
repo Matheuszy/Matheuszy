@@ -13,13 +13,11 @@
 
 <div align="center">
 
-\`\`\`
 $ whoami
 > Estudante de Ciência da Computação | MBA em Gestão de Projetos
 > Atuo como CX Data Analyst — SQL & Python transformando dados em decisão de negócio
 > Buscando: Estágio ou vaga Java / Kotlin / Python Jr.
 > Foco: arquitetura limpa · observabilidade · impacto real
-\`\`\`
 
 </div>
 
