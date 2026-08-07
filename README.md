@@ -28,7 +28,7 @@
 
 | 📚 Estudando | 📖 Lendo | 🎯 Buscando |
 |:---:|:---:|:---:|
-| Spring Security + JWT · Kafka · DDD | *Designing Data-Intensive Applications* | Estágio ou vaga Java Jr · Backend |
+| AI-Native Software Engineering | *A Arte de Desenvolver Software* | Oportunidades de Software Engineering |
 
 </div>
 
@@ -83,19 +83,30 @@ Análise de dados e previsão de crédito com **Python**, **SQL** e **Machine Le
 </tr>
 </table>
 
-<details>
-<summary><b>🧩 Ver mais — Java Microservices</b></summary>
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 🧩 Java Microservices
 Coleção de microsserviços desenvolvidos em **Java**, explorando arquitetura distribuída e comunicação entre serviços.
 
 `Java` `Microservices` `Distributed Systems`
 
-🔗 https://github.com/Matheuszy/microsservi-os-java
+<a href="https://github.com/Matheuszy/microsservi-os-java">🔗 Ver repositório</a>
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<br/>
+### 🧠 Smart Product Recommender
+Engine de recomendação que decide o próximo passo do cliente combinando **4 algoritmos de IA clássica**: Cadeia de Markov prevê o comportamento, Rede Bayesiana estima a probabilidade de compra, um Motor de Decisão define o objetivo e o algoritmo **A\*** traça o melhor caminho até o produto ideal — tudo exposto via API REST com FastAPI.
+
+`Python` `FastAPI` `Markov Chain` `Bayesian Network` `A* Search` `Docker`
+
+<a href="https://github.com/Matheuszy/srmart-recommender">🔗 Ver repositório</a>
+
+</td>
+</tr>
+</table>
 
 ## ⚙️ DevOps, Cloud & Observabilidade
 
@@ -124,7 +135,10 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 - 📊 **Data-Driven** — SQL, Python e observability stack para investigar causas-raiz e otimizar código
 - 👥 **Foco no usuário** — Vivência em CX garante APIs estáveis e experiência de qualidade
 - 📋 **Gestão Ágil** — Scrum/Kanban via Jira para entregas previsíveis
-
+- 🧠 **Pensamento algorítmico** — aplico estruturas de IA clássica (Markov, Bayes, A*) para resolver problemas reais de negócio, não só CRUD
+- 🧪 **Cultura de testes** — cobertura sólida com JUnit/pytest, testes unitários e de API antes de qualquer entrega
+- 🔄 **Automação contínua** — pipelines CI configurados do zero (GitHub Actions) validando build e testes a cada push
+- 🏗️ **Arquitetura em camadas** — separação clara entre API, DTOs, serviços e modelos, facilitando manutenção e testabilidade
 <br/>
 
 ## 🏆 Certificações
@@ -141,6 +155,10 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 
 <div align="center">
 
+## 🤖 Stack
+
+<div align="center">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" width="40" height="40"/>&nbsp;
@@ -149,6 +167,8 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" title="Pydantic" height="28"/>&nbsp;
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" title="pytest" height="28"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
@@ -157,9 +177,16 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" title="RabbitMQ" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" title="Kafka" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" title="Amazon CloudWatch" height="28"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" title="Claude / Agentes de IA" height="28"/>&nbsp;
+<img src="https://img.shields.io/badge/AI_Agents-6E56CF?style=flat-square&logo=openai&logoColor=white" title="Agentes de IA" height="28"/>&nbsp;
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" title="Jira" height="28"/>&nbsp;
+<img src="https://img.shields.io/badge/Kanban-17A2B8?style=flat-square&logo=trello&logoColor=white" title="Kanban" height="28"/>
+
+</div>
 
 </div>
 
