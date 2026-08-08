@@ -81,9 +81,6 @@ Análise de dados e previsão de crédito com **Python**, **SQL** e **Machine Le
 
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -105,10 +102,11 @@ Engine de recomendação que decide o próximo passo do cliente combinando **4 a
 <a href="https://github.com/Matheuszy/srmart-recommender">🔗 Ver repositório</a>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top" colspan="2">
 
 ### 🤖 Code Connect — AI-Assisted Software Engineering
-
 Projeto desenvolvido para explorar a integração de **Inteligência Artificial no fluxo de desenvolvimento de software**, utilizando **Claude Code** como agente assistente. O foco está em **Context Engineering**, organização do workspace, automação e aplicação de boas práticas de arquitetura e qualidade.
 
 Durante o desenvolvimento, foram explorados arquivos como `CLAUDE.md` e `AGENTS.md` para fornecer contexto e regras ao agente, além da integração com ferramentas externas como **Lighthouse CI** e **MCP (Model Context Protocol)** para transformar referências do Figma em componentes.
@@ -120,7 +118,6 @@ Durante o desenvolvimento, foram explorados arquivos como `CLAUDE.md` e `AGENTS.
 </td>
 </tr>
 </table>
-
 
 ## ⚙️ DevOps, Cloud & Observabilidade
 
