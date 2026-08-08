@@ -108,6 +108,24 @@ Engine de recomendação que decide o próximo passo do cliente combinando **4 a
 </tr>
 </table>
 
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Code Connect — AI-Assisted Software Engineering
+
+Projeto desenvolvido para explorar a integração de **Inteligência Artificial no fluxo de desenvolvimento de software**, utilizando **Claude Code** como agente assistente. O foco está em **Context Engineering**, organização do workspace, automação e aplicação de boas práticas de arquitetura e qualidade.
+
+Durante o desenvolvimento, foram explorados arquivos como `CLAUDE.md` e `AGENTS.md` para fornecer contexto e regras ao agente, além da integração com ferramentas externas como **Lighthouse CI** e **MCP (Model Context Protocol)** para transformar referências do Figma em componentes.
+
+`Node.js` `NestJS` `Claude Code` `Context Engineering` `MCP` `Lighthouse CI`
+
+<a href="https://github.com/Matheuszy/code-connect">🔗 Ver repositório</a>
+
+</td>
+</tr>
+</table>
+
+
 ## ⚙️ DevOps, Cloud & Observabilidade
 
 <div align="center">
