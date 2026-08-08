@@ -105,10 +105,6 @@ Engine de recomendação que decide o próximo passo do cliente combinando **4 a
 <a href="https://github.com/Matheuszy/srmart-recommender">🔗 Ver repositório</a>
 
 </td>
-</tr>
-</table>
-
-</td>
 <td width="50%" valign="top">
 
 ### 🤖 Code Connect — AI-Assisted Software Engineering
