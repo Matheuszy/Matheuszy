@@ -41,9 +41,9 @@
 <td width="50%" valign="top">
 
 ### 🟢 Basilico — Management API
-API RESTful em **Java 17** com **Spring Boot**, seguindo **Arquitetura Hexagonal**, SOLID e Clean Code. Autenticação JWT, persistência PostgreSQL/MySQL, testes automatizados e arquitetura pronta para escalar.
+API RESTful em **Java 17** com **Spring Boot**, seguindo **Arquitetura Hexagonal**, SOLID e Clean Code. Autenticação JWT, persistência PostgreSQL/MySQL e arquitetura pronta para escalar.
 
-`Java 17` `Spring Boot` `Hibernate/JPA` `PostgreSQL` `JUnit` `Mockito` `Railway`
+`Java 17` `Spring Boot` `Hibernate/JPA` `PostgreSQL` `JUnit` `Mockito`
 
 <a href="https://github.com/Matheuszy/Basilico">🔗 Ver repositório</a>
 
@@ -56,6 +56,28 @@ Sistema de Gestão de Estoque e PDV **multi-tenant**, desenvolvido em Java e Spr
 `Java` `Spring Boot` `Multi-tenancy` `PostgreSQL`
 
 <a href="https://github.com/Codex-System/Sistema-de-estoque">🔗 Ver repositório</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 Microsserviço Pagamento (Alurafood)
+Microserviço de pagamentos do ecossistema Alurafood, gerenciando transações com PIX, Crédito e Débito. Implementa comunicação via Feign Client e integração com Service Discovery (Eureka).
+
+`Java 17` `Spring Boot` `OpenFeign` `PostgreSQL` `Flyway` `Eureka`
+
+<a href="https://github.com/Matheuszy/microsservico-pagamento">🔗 Ver repositório</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Java Microservices
+Coleção de microsserviços desenvolvidos em **Java**, explorando arquitetura distribuída, comunicação entre serviços e padrões de microsserviços.
+
+`Java` `Microservices` `Distributed Systems`
+
+<a href="https://github.com/Matheuszy/microsservi-os-java">🔗 Ver repositório</a>
 
 </td>
 </tr>
@@ -84,32 +106,18 @@ Análise de dados e previsão de crédito com **Python**, **SQL** e **Machine Le
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 Java Microservices
-Coleção de microsserviços desenvolvidos em **Java**, explorando arquitetura distribuída e comunicação entre serviços.
-
-`Java` `Microservices` `Distributed Systems`
-
-<a href="https://github.com/Matheuszy/microsservi-os-java">🔗 Ver repositório</a>
-
-</td>
-<td width="50%" valign="top">
-
 ### 🧠 Smart Product Recommender
-Engine de recomendação que decide o próximo passo do cliente combinando **4 algoritmos de IA clássica**: Cadeia de Markov prevê o comportamento, Rede Bayesiana estima a probabilidade de compra, um Motor de Decisão define o objetivo e o algoritmo **A\*** traça o melhor caminho até o produto ideal — tudo exposto via API REST com FastAPI.
+Engine de recomendação que decide o próximo passo do cliente combinando **4 algoritmos de IA clássica**: Cadeia de Markov, Rede Bayesiana, Motor de Decisão e algoritmo **A\*** — exposto via API REST com FastAPI.
 
-`Python` `FastAPI` `Markov Chain` `Bayesian Network` `A* Search` `Docker`
+`Python` `FastAPI` `Markov Chain` `Bayesian Network` `A* Search`
 
 <a href="https://github.com/Matheuszy/srmart-recommender">🔗 Ver repositório</a>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top" colspan="2">
+<td width="50%" valign="top">
 
 ### 🤖 Code Connect — AI-Assisted Software Engineering
-Projeto desenvolvido para explorar a integração de **Inteligência Artificial no fluxo de desenvolvimento de software**, utilizando **Claude Code** como agente assistente. O foco está em **Context Engineering**, organização do workspace, automação e aplicação de boas práticas de arquitetura e qualidade.
-
-Durante o desenvolvimento, foram explorados arquivos como `CLAUDE.md` e `AGENTS.md` para fornecer contexto e regras ao agente, além da integração com ferramentas externas como **Lighthouse CI** e **MCP (Model Context Protocol)** para transformar referências do Figma em componentes.
+Exploração de integração de **Inteligência Artificial no fluxo de desenvolvimento (Claude Code)**. Foco em **Context Engineering**, automação, CI/CD com Lighthouse CI e utilização de MCP.
 
 `Node.js` `NestJS` `Claude Code` `Context Engineering` `MCP` `Lighthouse CI`
 
