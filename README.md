@@ -206,14 +206,18 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 </div>
 
 <br/>
-
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas e Atividade
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GitHub-Matheuszy-0e1117?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Contribuições_Ativas-Constantes-302b63?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Foco-Backend_%26_Data_Engineering-C41E3A?style=for-the-badge&logo=python&logoColor=white"/>
+<!-- Cards de Estatísticas e Linguagens Mais Usadas -->
+<img src="https://github-readme-stats.vercel.app/api?username=Matheuszy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true&cache_seconds=86400" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuszy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&cache_seconds=86400" width="45%"/>
+
+<br/><br/>
+
+<!-- Gráfico de Sequência (Streak Stats) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheuszy&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="65%"/>
 
 </div>
 
