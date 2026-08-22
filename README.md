@@ -210,7 +210,7 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Matheuszy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Matheuszy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&cache_seconds=86400" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuszy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="34%"/>
 
 <br/><br/>
