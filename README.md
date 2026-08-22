@@ -207,21 +207,13 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 <br/>
 
 ## 📊 Estatísticas
-
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Matheuszy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&cache_seconds=86400" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuszy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="34%"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuszy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&cache_seconds=86400" width="34%"/>
 <br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheuszy&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="65%"/>
-
+<img src="https://streak-stats.demolab.com/?user=Matheuszy&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="65%"/>
 <br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheuszy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" width="90%"/>
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheuszy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&cache_seconds=86400" width="90%"/>
 
 <br/>
 
