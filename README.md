@@ -207,20 +207,15 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 
 <br/>
 
-## 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Matheuszy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuszy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="34%"/>
+<!-- Gráfico de Contribuições Estável via GitHub Readme Stats oficial -->
+<img src="https://github-readme-stats.vercel.app/api?username=Matheuszy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" width="48%"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheuszy&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="65%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheuszy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" width="90%"/>
+<!-- Linguagens mais utilizadas (versão compacta e estável) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuszy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="45%"/>
 
 </div>
 
