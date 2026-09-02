@@ -165,9 +165,14 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 
 | Certificação | Status |
 |---|---|
-| AWS Certified Cloud Practitioner | 🟡 Em andamento |
-| AWS AI Practitioner | ⚪ Planejado |
+| AWS Certified Cloud Practitioner | 🟢 Conquistado  |
+| AWS AI Practitioner | 🟢 Conquistado |
+| AWS Developer Associate | ⚪ Planejado |
+| Google Associate Cloud Engineer | ⚪ Planejado |
 | Oracle Java Foundations | ⚪ Planejado |
+| Oracle Agentic AI Foundations Associate | ⚪ Planejado |
+
+
 
 <br/>
 
