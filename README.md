@@ -40,7 +40,7 @@
 
 ## 💼 Experiência
 
-### 🔵 DescPay — Backend Software Engineer
+### 🔵 DescPay — Backend developer
 
 Atuação no desenvolvimento e manutenção de sistemas voltados para **vendas, pagamentos e gestão financeira**, trabalhando diretamente com regras de negócio e integrações entre serviços.
 
