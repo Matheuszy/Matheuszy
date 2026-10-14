@@ -18,7 +18,7 @@
 > 🎓 Estudante de Ciência da Computação | MBA em Gestão de Projetos
 > 💻 Backend Software Engineer na **DescPay**
 > 🚀 Desenvolvimento de sistemas, APIs e integrações para soluções financeiras
-> 🎯 Foco: Java · Kotlin · Spring Boot · PostgreSQL · APIs · Cloud · Observabilidade
+> 🎯 Foco: Java · Kotlin · Spring Boot · Python · FastApi/Django · PostgreSQL/Mysql/MongoDB/DynamoDB · IA · APIs · Cloud(AWS/Oracle) · Observabilidade
 
 </div>
 
