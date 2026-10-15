@@ -16,7 +16,7 @@
 <div align="center">
 
 > 🎓 Estudante de Ciência da Computação | MBA em Gestão de Projetos
-> 💻 Backend Software Engineer na **DescPay**
+> 💻 Fullstack Software Engineer na **DescPay**
 > 🚀 Desenvolvimento de sistemas, APIs e integrações para soluções financeiras
 > 🎯 Foco: Java · Kotlin · Python ·  PostgreSQL/Mysql · IA · APIs · Cloud · Observabilidade
 
@@ -40,7 +40,7 @@
 
 ## 💼 Experiência
 
-### 🔵 DescPay — Backend developer
+### 🔵 DescPay — Fullstack developer
 
 Atuação no desenvolvimento e manutenção de sistemas voltados para **vendas, pagamentos e gestão financeira**, trabalhando diretamente com regras de negócio e integrações entre serviços.
 
@@ -58,7 +58,7 @@ Atuação no desenvolvimento e manutenção de sistemas voltados para **vendas, 
 * Participar de processos de **deploy e investigação de problemas em produção** utilizando recursos da AWS.
 * Trabalhar em conjunto com frontend e demais áreas para transformar requisitos de negócio em soluções técnicas.
 
-`Java` `Kotlin` `Spring Boot` `REST API` `PostgreSQL` `Docker` `AWS` `JUnit` `Integrações` `Sistemas Financeiros`
+`Java` `Kotlin` `Spring Boot` `REST API` `React` `React native` `PostgreSQL` `Docker` `AWS` `JUnit` `Jest` `Integrações` `Sistemas Financeiros`
 
 <br/>
 
