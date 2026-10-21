@@ -18,7 +18,7 @@
 <div align="center">
 
 > 🎓 Estudante de Ciência da Computação | MBA em Gestão de Projetos  
-> 💻 **Fullstack Software Engineer** — React, React Native e Backend(java/kotlin/python)  
+> 💻 **Fullstack Software Engineer** — React, React Native e Backend ( java / kotlin / python )  
 > 🤖 **AI-Native Development** — Harness, Graph e Loop Engineering  
 > 🧠 **AI Engineering & Integration** — modelos, agentes e aplicações inteligentes  
 > 🎯 Foco: Fullstack Engineering · AI-Assisted Development · AI Integration · Cloud
@@ -34,7 +34,7 @@
 | 💼 Construindo | 📚 Explorando | 🎯 Direção |
 |:---:|:---:|:---:|
 | Fullstack Applications | Harness Engineering | AI-Native Software Development |
-| React, React Native e Backend(java/kotlin/python)  | Graph & Loop Engineering | AI Engineering & Integration |
+| React, React Native e Backend ( java / kotlin / python ) | Graph & Loop Engineering | AI Engineering & Integration |
 | APIs e integrações | Agentes e workflows de IA | Sistemas inteligentes e escaláveis |
 
 </div>
