@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Matheus%20Carlos&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer%20%7C%20Java%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Python&descAlignY=58&descSize=18" width="100%" alt="Matheus Carlos — Backend Software Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Matheus%20Carlos&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Engineer%20%7C%20AI-Native%20Development%20%7C%20AI%20Integration&descAlignY=58&descSize=18" width="100%" alt="Matheus Carlos — Fullstack Engineer | AI-Native Development | AI Integration"/>
 
 <br/>
 
@@ -18,9 +18,10 @@
 <div align="center">
 
 > 🎓 Estudante de Ciência da Computação | MBA em Gestão de Projetos  
-> 💻 Fullstack Software Engineer na **DescPay**  
-> 🚀 Desenvolvimento de sistemas, APIs e integrações para soluções financeiras  
-> 🎯 Foco: Java · Kotlin · Python · PostgreSQL/MySQL · IA · APIs · Cloud · Observabilidade
+> 💻 **Fullstack Software Engineer** — React, React Native e Backend  
+> 🤖 **AI-Native Development** — Harness, Graph e Loop Engineering  
+> 🧠 **AI Engineering & Integration** — modelos, agentes e aplicações inteligentes  
+> 🎯 Foco: Fullstack Engineering · AI-Assisted Development · AI Integration · Cloud
 
 </div>
 
@@ -30,11 +31,11 @@
 
 <div align="center">
 
-| 💼 Trabalhando | 📚 Estudando | 🎯 Foco |
+| 💼 Construindo | 📚 Explorando | 🎯 Direção |
 |:---:|:---:|:---:|
-| Backend Software Engineering | AI-Native Software Engineering | Sistemas distribuídos e APIs |
-| Java / Kotlin / Spring Boot | Cloud & DevOps | Arquitetura e observabilidade |
-| Sistemas financeiros | IA & Agentes | Software escalável |
+| Fullstack Applications | Harness Engineering | AI-Native Software Development |
+| React / React Native | Graph & Loop Engineering | AI Engineering & Integration |
+| APIs e integrações | Agentes e workflows de IA | Sistemas inteligentes e escaláveis |
 
 </div>
 
@@ -44,11 +45,12 @@
 
 ### 🔵 DescPay — Fullstack Developer
 
-Atuação no desenvolvimento e manutenção de sistemas voltados para **vendas, pagamentos e gestão financeira**, trabalhando diretamente com regras de negócio e integrações entre serviços.
+Atuação no desenvolvimento e manutenção de sistemas voltados para **vendas, pagamentos e gestão financeira**, conectando interfaces, APIs e serviços de backend. Trabalho com regras de negócio e integrações entre serviços em uma stack fullstack.
 
 #### Principais responsabilidades
 
-- Desenvolver e manter funcionalidades de **backend** utilizando Java/Kotlin e Spring Boot.
+- Desenvolver e manter funcionalidades de **frontend e backend**, conectando interfaces web/mobile a serviços e APIs.
+- Trabalhar com **React e React Native** no desenvolvimento de interfaces e experiências de usuário.
 - Implementar e evoluir **APIs REST** utilizadas pelo frontend e aplicações externas.
 - Trabalhar com **regras de negócio** relacionadas a vendas, pagamentos e processos financeiros.
 - Desenvolver integrações com **APIs de parceiros de pagamento e serviços financeiros**.
@@ -153,11 +155,11 @@ Engine de recomendação que decide o próximo passo do cliente combinando **4 a
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Code Connect — AI-Assisted Software Engineering
+### 🤖 Code Connect — AI-Native Software Engineering
 
-Exploração de integração de **Inteligência Artificial no fluxo de desenvolvimento (Claude Code)**. Foco em **Context Engineering**, automação, CI/CD com Lighthouse CI e utilização de MCP.
+Projeto de exploração de **IA no ciclo de desenvolvimento de software**, utilizando Claude Code e ferramentas de contexto e automação. Investigo práticas de **Context Engineering, harness engineering, graph-based workflows e loop engineering**, além de integração com MCP e CI/CD com Lighthouse CI.
 
-`Node.js` `NestJS` `Claude Code` `Context Engineering` `MCP` `Lighthouse CI`
+`Node.js` `NestJS` `Claude Code` `Context Engineering` `Harness Engineering` `MCP` `Lighthouse CI`
 
 <a href="https://github.com/Matheuszy/code-connect">🔗 Ver repositório</a>
 
@@ -192,15 +194,15 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 
 ## 💡 Diferenciais
 
-- 💼 **Negócio + Técnica** — MBA em Gestão de Projetos: traduzo requisitos de stakeholders em soluções claras.
-- 💳 **Domínio de sistemas financeiros** — experiência com regras de negócio, pagamentos, integrações e processos transacionais.
-- 📊 **Data-Driven** — SQL, Python e observabilidade para investigar causas-raiz e otimizar sistemas.
-- 👥 **Foco no usuário** — experiência em CX aplicada à construção de APIs e soluções confiáveis.
-- 📋 **Gestão Ágil** — Scrum/Kanban via Jira para entregas previsíveis.
-- 🧠 **Pensamento algorítmico** — aplico estruturas de IA clássica para resolver problemas reais de negócio.
+- 🧩 **Fullstack Engineering** — desenvolvimento de interfaces web e mobile com integração a APIs e serviços de backend.
+- 🤖 **AI-Native Development** — exploração de harness engineering, context engineering e workflows de desenvolvimento com agentes.
+- 🔁 **Graph & Loop Engineering** — estudo de fluxos de execução, ciclos de feedback e orquestração de tarefas assistidas por IA.
+- 🧠 **AI Engineering & Integration** — estudo e integração de modelos e serviços de IA em aplicações, agentes e automações.
+- 🏗️ **Backend & Architecture** — experiência com Java, Kotlin, Spring Boot, Python, APIs REST e bancos de dados.
+- ☁️ **Cloud & DevOps** — Docker, CI/CD, AWS e observabilidade.
+- 💳 **Business-Oriented Engineering** — experiência com sistemas financeiros, integrações e regras de negócio.
 - 🧪 **Cultura de testes** — JUnit/pytest, testes unitários e de API.
-- 🔄 **Automação contínua** — pipelines CI configurados com GitHub Actions.
-- 🏗️ **Arquitetura em camadas** — separação clara entre API, DTOs, serviços e modelos, facilitando manutenção e testabilidade.
+- 📋 **Gestão Ágil** — Scrum/Kanban via Jira para entregas previsíveis.
 
 <br/>
 
@@ -217,7 +219,21 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 
 <br/>
 
-## 🤖 Stack
+## 🧰 Tech Stack
+
+### Frontend & Mobile
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" width="40" height="40" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React Native" width="40" height="40" alt="React Native"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40" alt="Node.js"/>
+
+</div>
+
+### Backend, Cloud & AI
 
 <div align="center">
 
@@ -244,7 +260,7 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="40" height="40" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="40" height="40" alt="IntelliJ IDEA"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" title="Claude / Agentes de IA" height="28" alt="Claude"/>
-<img src="https://img.shields.io/badge/AI_Agents-6E56CF?style=flat-square&logo=openai&logoColor=white" title="Agentes de IA" height="28" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/AI_Agents-6E56CF?style=flat-square&logo=openai&logoColor=white" title="AI Agents" height="28" alt="AI Agents"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" title="Jira" height="28" alt="Jira"/>
 <img src="https://img.shields.io/badge/Kanban-17A2B8?style=flat-square&logo=trello&logoColor=white" title="Kanban" height="28" alt="Kanban"/>
 
@@ -285,6 +301,6 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" alt="Rodapé roxo"/>
 
-*"Código limpo é a diferença entre resolver um problema e criar o próximo."*
+*"Building across the stack. Engineering with AI. Integrating intelligence into software."*
 
 </div>
