@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Matheus%20Carlos&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer%20%7C%20Java%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Python&descAlignY=58&descSize=18" width="100%" alt="Matheus Carlos — Backend Software Engineer"/>
 
@@ -7,7 +7,9 @@
 <a href="https://www.linkedin.com/in/matheus-almeida-497050244">
   <img src="https://img.shields.io/badge/LinkedIn-conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Matheuszy&style=for-the-badge&color=302b63&label=VISITAS" alt="Visitas ao perfil"/>
+<a href="https://hits.sh/github.com/Matheuszy/">
+  <img src="https://hits.sh/github.com/Matheuszy.svg?style=for-the-badge&label=VISITAS&color=302b63" alt="Visitas ao perfil"/>
+</a>
 
 </div>
 
@@ -272,13 +274,7 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 ### 📈 Histórico de contribuições
 
 <a href="https://github.com/Matheuszy">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheuszy&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=302b63&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20ao%20longo%20do%20tempo" width="95%" alt="Gráfico de atividade do GitHub"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Matheuszy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Matheuszy&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%" alt="Conquistas do GitHub"/>
+  Ver calendário completo de contribuições no GitHub →
 </a>
 
 </div>
