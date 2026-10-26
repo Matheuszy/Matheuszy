@@ -33,7 +33,7 @@
 
 | 💼 Construindo | 📚 Explorando | 🎯 Direção |
 |:---:|:---:|:---:|
-| Fullstack Applications | Harness Engineering | Software engineering |
+| Fullstack Applications | Harness Engineering | fullstack Software engineering |
 | React, React Native e Backend ( java / kotlin / python ) | Graph & Loop Engineering | AI Engineering & Integration |
 | APIs e integrações | Agentes e workflows de IA | Sistemas inteligentes e escaláveis |
 
