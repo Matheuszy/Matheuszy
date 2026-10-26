@@ -33,7 +33,7 @@
 
 | 💼 Construindo | 📚 Explorando | 🎯 Direção |
 |:---:|:---:|:---:|
-| Fullstack Applications | Harness Engineering | fullstack Software engineering |
+| Fullstack Applications | Harness Engineering | Software engineering |
 | React, React Native e Backend ( java / kotlin / python ) | Graph & Loop Engineering | AI Engineering & Integration |
 | APIs e integrações | Agentes e workflows de IA | Sistemas inteligentes e escaláveis |
 
@@ -165,6 +165,19 @@ Projeto de exploração de **IA no ciclo de desenvolvimento de software**, utili
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📊 BI & Analytics — Dashboard Alfa Construtora
+
+Plataforma de **Business Intelligence** com pipeline **ETL** completo e dashboard interativo em **Dash**, consolidando despesas financeiras, execução de obras e operação de RH a partir de planilhas Excel. Inclui KPIs em tempo real, análise de Pareto, aging de pagamentos, filtros cruzados por clique, login com sessão segura e persistência em MongoDB, com testes unitários automatizados.
+
+`Python` `Dash` `Plotly` `Pandas` `MongoDB` `Flask` `Pytest`
+
+<a href="https://github.com/Matheuszy/dashboard-alfa-construtora">🔗 Ver repositório</a>
+
+</td>
+</tr>
 </table>
 
 <br/>
@@ -199,6 +212,7 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 - 🔁 **Graph & Loop Engineering** — estudo de fluxos de execução, ciclos de feedback e orquestração de tarefas assistidas por IA.
 - 🧠 **AI Engineering & Integration** — estudo e integração de modelos e serviços de IA em aplicações, agentes e automações.
 - 🏗️ **Backend & Architecture** — experiência com Java, Kotlin, Spring Boot, Python, APIs REST e bancos de dados.
+- 📊 **Dados & BI** — pipelines ETL, dashboards analíticos e visualização de dados com Python, Pandas e Plotly.
 - ☁️ **Cloud & DevOps** — Docker, CI/CD, AWS e observabilidade.
 - 💳 **Business-Oriented Engineering** — experiência com sistemas financeiros, integrações e regras de negócio.
 - 🧪 **Cultura de testes** — JUnit/pytest, testes unitários e de API.
@@ -245,11 +259,14 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40" height="40" alt="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" width="40" height="40" alt="FastAPI"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" width="40" height="40" alt="Flask"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Plotly_Dash-008DE4?style=flat-square&logo=plotly&logoColor=white" title="Plotly Dash" height="28" alt="Plotly Dash"/>
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" title="Pydantic" height="28" alt="Pydantic"/>
 <img src="https://img.shields.io/badge/pytest-0A9EDB?style=flat-square&logo=pytest&logoColor=white" title="pytest" height="28" alt="pytest"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" width="40" height="40" alt="C"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle" width="40" height="40" alt="Oracle"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40" alt="MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="40" height="40" alt="Docker"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" width="40" height="40" alt="Kubernetes"/>
 <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" title="RabbitMQ" width="40" height="40" alt="RabbitMQ"/>
