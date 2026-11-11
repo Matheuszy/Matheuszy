@@ -72,6 +72,17 @@ Atuação no desenvolvimento e manutenção de sistemas voltados para **vendas, 
 <tr>
 <td width="50%" valign="top">
 
+### 🎲 Arcana — Plataforma para Mesas de RPG
+
+Plataforma fullstack para mesas de RPG: usuários criam personagens, mestres administram mesas e participantes conversam e rolam dados em tempo real. Backend em **Java 17** e **Spring Boot**, autenticação JWT, WebSocket e persistência PostgreSQL; frontend em React e TypeScript.
+
+`Java 17` `Spring Boot` `React` `TypeScript` `PostgreSQL` `WebSocket` `JWT` `Docker`
+
+<a href="https://github.com/Matheuszy/Arcana-Chronicles">🔗 Ver repositório</a>
+
+</td>
+<td width="50%" valign="top">
+
 ### 🟢 Basilico — Management API
 
 API RESTful em **Java 17** com **Spring Boot**, seguindo **Arquitetura Hexagonal**, SOLID e Clean Code. Autenticação JWT, persistência PostgreSQL/MySQL e arquitetura pronta para escalar.
@@ -81,6 +92,8 @@ API RESTful em **Java 17** com **Spring Boot**, seguindo **Arquitetura Hexagonal
 <a href="https://github.com/Matheuszy/Basilico">🔗 Ver repositório</a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🟣 Multi-Tenant Inventory & POS
@@ -92,8 +105,6 @@ Sistema de Gestão de Estoque e PDV **multi-tenant**, desenvolvido em Java e Spr
 <a href="https://github.com/Codex-System/Sistema-de-estoque">🔗 Ver repositório</a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💳 Microsserviço Pagamento — Alurafood
@@ -247,7 +258,7 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 
 </div>
 
-### Backend, Cloud & AI
+### Backend
 
 <div align="center">
 
@@ -259,25 +270,75 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40" height="40" alt="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" width="40" height="40" alt="FastAPI"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" width="40" height="40" alt="Flask"/>
+
+</div>
+
+### Arquitetura & Integrações
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=openapiinitiative&logoColor=white" title="REST APIs" height="28" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" title="WebSocket" height="28" alt="WebSocket"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" title="JWT" height="28" alt="JWT"/>
+<img src="https://img.shields.io/badge/Microservices-6DB33F?style=flat-square&logo=spring&logoColor=white" title="Microservices" height="28" alt="Microservices"/>
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" title="RabbitMQ" width="40" height="40" alt="RabbitMQ"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" title="Kafka" width="40" height="40" alt="Kafka"/>
+
+</div>
+
+### Banco de Dados
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40" alt="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle" width="40" height="40" alt="Oracle"/>
+
+</div>
+
+### Cloud & DevOps
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="40" height="40" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" width="40" height="40" alt="Kubernetes"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="40" height="40" alt="AWS"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" title="GitHub Actions" height="28" alt="GitHub Actions"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width="40" height="40" alt="Linux"/>
+
+</div>
+
+### Observabilidade
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" title="Amazon CloudWatch" height="28" alt="Amazon CloudWatch"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" title="Prometheus" height="28" alt="Prometheus"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" title="Grafana" height="28" alt="Grafana"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white" title="OpenTelemetry" height="28" alt="OpenTelemetry"/>
+
+</div>
+
+### IA & Dados
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" title="Claude / Agentes de IA" height="28" alt="Claude"/>
+<img src="https://img.shields.io/badge/AI_Agents-6E56CF?style=flat-square&logo=openai&logoColor=white" title="AI Agents" height="28" alt="AI Agents"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40" alt="Pandas"/>
 <img src="https://img.shields.io/badge/Plotly_Dash-008DE4?style=flat-square&logo=plotly&logoColor=white" title="Plotly Dash" height="28" alt="Plotly Dash"/>
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" title="Pydantic" height="28" alt="Pydantic"/>
+
+</div>
+
+### Qualidade & Ferramentas
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" title="JUnit" height="28" alt="JUnit"/>
 <img src="https://img.shields.io/badge/pytest-0A9EDB?style=flat-square&logo=pytest&logoColor=white" title="pytest" height="28" alt="pytest"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" width="40" height="40" alt="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle" width="40" height="40" alt="Oracle"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40" alt="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40" alt="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="40" height="40" alt="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" width="40" height="40" alt="Kubernetes"/>
-<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" title="RabbitMQ" width="40" height="40" alt="RabbitMQ"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" title="Kafka" width="40" height="40" alt="Kafka"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="40" height="40" alt="AWS"/>
-<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" title="Amazon CloudWatch" height="28" alt="Amazon CloudWatch"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width="40" height="40" alt="Linux"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="40" height="40" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="40" height="40" alt="IntelliJ IDEA"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" title="Claude / Agentes de IA" height="28" alt="Claude"/>
-<img src="https://img.shields.io/badge/AI_Agents-6E56CF?style=flat-square&logo=openai&logoColor=white" title="AI Agents" height="28" alt="AI Agents"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" title="Jira" height="28" alt="Jira"/>
 <img src="https://img.shields.io/badge/Kanban-17A2B8?style=flat-square&logo=trello&logoColor=white" title="Kanban" height="28" alt="Kanban"/>
 
