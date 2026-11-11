@@ -206,14 +206,9 @@ Deploy em **AWS EC2** com **Nginx** como API Gateway/Load Balancer
 
 Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-<img src="https://img.shields.io/badge/AWS_EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS EC2"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
+<p align="center">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/> <img src="https://img.shields.io/badge/AWS_EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS EC2"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/> <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
+</p>
 
 </div>
 
@@ -251,104 +246,51 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 
 ### Frontend & Mobile
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" width="40" height="40" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React Native" width="40" height="40" alt="React Native"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" title="Expo" width="40" height="40" alt="Expo"/>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" width="40" height="40" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React Native" width="40" height="40" alt="React Native"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40" alt="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40" alt="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" title="Expo" width="40" height="40" alt="Expo"/>
+</p>
 
 ### Backend
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="40" height="40" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" width="40" height="40" alt="Kotlin"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" width="40" height="40" alt="Spring Boot"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" title="Hibernate" width="40" height="40" alt="Hibernate"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" title="Maven" width="40" height="40" alt="Maven"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40" height="40" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" width="40" height="40" alt="FastAPI"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" width="40" height="40" alt="Flask"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" title="Ruby" width="40" height="40" alt="Ruby"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original.svg" title="Ruby on Rails" width="40" height="40" alt="Ruby on Rails"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" title="Express.js" width="40" height="40" alt="Express.js"/>
-
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" title="Spring Security" height="28" alt="Spring Security"/>
-<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" title="Spring Data JPA" height="28" alt="Spring Data JPA"/>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="40" height="40" alt="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" width="40" height="40" alt="Kotlin"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" width="40" height="40" alt="Spring Boot"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" title="Hibernate" width="40" height="40" alt="Hibernate"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" title="Maven" width="40" height="40" alt="Maven"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40" height="40" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" width="40" height="40" alt="FastAPI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" width="40" height="40" alt="Flask"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" title="Ruby" width="40" height="40" alt="Ruby"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original.svg" title="Ruby on Rails" width="40" height="40" alt="Ruby on Rails"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" title="Express.js" width="40" height="40" alt="Express.js"/> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" title="Spring Security" height="28" alt="Spring Security"/> <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" title="Spring Data JPA" height="28" alt="Spring Data JPA"/>
+</p>
 
 ### Arquitetura & Integrações
 
-<img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=openapiinitiative&logoColor=white" title="REST APIs" height="28" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" title="WebSocket" height="28" alt="WebSocket"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" title="JWT" height="28" alt="JWT"/>
-<img src="https://img.shields.io/badge/Microservices-6DB33F?style=flat-square&logo=spring&logoColor=white" title="Microservices" height="28" alt="Microservices"/>
-<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" title="RabbitMQ" width="40" height="40" alt="RabbitMQ"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" title="Kafka" width="40" height="40" alt="Kafka"/>
-
-<img src="https://img.shields.io/badge/DDD-40346C?style=flat-square" title="DDD" height="28" alt="DDD"/>
-<img src="https://img.shields.io/badge/SOLID-40346C?style=flat-square" title="SOLID" height="28" alt="SOLID"/>
-<img src="https://img.shields.io/badge/Clean_Architecture-40346C?style=flat-square" title="Clean Architecture" height="28" alt="Clean Architecture"/>
-<img src="https://img.shields.io/badge/Hexagonal_Architecture-40346C?style=flat-square" title="Hexagonal Architecture" height="28" alt="Hexagonal Architecture"/>
-<img src="https://img.shields.io/badge/Design_Patterns-40346C?style=flat-square" title="Design Patterns" height="28" alt="Design Patterns"/>
-<img src="https://img.shields.io/badge/Refresh_Tokens-40346C?style=flat-square" title="Refresh Tokens" height="28" alt="Refresh Tokens"/>
-<img src="https://img.shields.io/badge/Access_Control-40346C?style=flat-square" title="Access Control" height="28" alt="Access Control"/>
-<img src="https://img.shields.io/badge/Concurrency-40346C?style=flat-square" title="Concurrency" height="28" alt="Concurrency"/>
-<img src="https://img.shields.io/badge/Multi_Tenancy-40346C?style=flat-square" title="Multi Tenancy" height="28" alt="Multi Tenancy"/>
+<p align="left">
+<img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=openapiinitiative&logoColor=white" title="REST APIs" height="28" alt="REST APIs"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" title="WebSocket" height="28" alt="WebSocket"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" title="JWT" height="28" alt="JWT"/> <img src="https://img.shields.io/badge/Microservices-6DB33F?style=flat-square&logo=spring&logoColor=white" title="Microservices" height="28" alt="Microservices"/> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" title="RabbitMQ" width="40" height="40" alt="RabbitMQ"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" title="Kafka" width="40" height="40" alt="Kafka"/> <img src="https://img.shields.io/badge/DDD-40346C?style=flat-square" title="DDD" height="28" alt="DDD"/> <img src="https://img.shields.io/badge/SOLID-40346C?style=flat-square" title="SOLID" height="28" alt="SOLID"/> <img src="https://img.shields.io/badge/Clean_Architecture-40346C?style=flat-square" title="Clean Architecture" height="28" alt="Clean Architecture"/> <img src="https://img.shields.io/badge/Hexagonal_Architecture-40346C?style=flat-square" title="Hexagonal Architecture" height="28" alt="Hexagonal Architecture"/> <img src="https://img.shields.io/badge/Design_Patterns-40346C?style=flat-square" title="Design Patterns" height="28" alt="Design Patterns"/> <img src="https://img.shields.io/badge/Refresh_Tokens-40346C?style=flat-square" title="Refresh Tokens" height="28" alt="Refresh Tokens"/> <img src="https://img.shields.io/badge/Access_Control-40346C?style=flat-square" title="Access Control" height="28" alt="Access Control"/> <img src="https://img.shields.io/badge/Concurrency-40346C?style=flat-square" title="Concurrency" height="28" alt="Concurrency"/> <img src="https://img.shields.io/badge/Multi_Tenancy-40346C?style=flat-square" title="Multi Tenancy" height="28" alt="Multi Tenancy"/>
+</p>
 
 ### Banco de Dados
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40" alt="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40" alt="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle" width="40" height="40" alt="Oracle"/>
-
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square" title="SQL" height="28" alt="SQL"/>
-<img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" title="Flyway" height="28" alt="Flyway"/>
-<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" title="Sequelize" height="28" alt="Sequelize"/>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40" alt="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40" alt="MongoDB"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle" width="40" height="40" alt="Oracle"/> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" title="SQL" height="28" alt="SQL"/> <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" title="Flyway" height="28" alt="Flyway"/> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" title="Sequelize" height="28" alt="Sequelize"/>
+</p>
 
 ### Cloud & DevOps
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="40" height="40" alt="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" width="40" height="40" alt="Kubernetes"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" width="60" height="40" alt="AWS"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" title="GitHub Actions" height="28" alt="GitHub Actions"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width="40" height="40" alt="Linux"/>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="40" height="40" alt="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" width="40" height="40" alt="Kubernetes"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" title="AWS" height="40" alt="AWS"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" title="GitHub Actions" height="40" alt="GitHub Actions"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width="40" height="40" alt="Linux"/>
+</p>
 
 ### Observabilidade
 
-<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" title="Amazon CloudWatch" height="28" alt="Amazon CloudWatch"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" title="Prometheus" height="28" alt="Prometheus"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" title="Grafana" height="28" alt="Grafana"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white" title="OpenTelemetry" height="28" alt="OpenTelemetry"/>
+<p align="left">
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" title="Amazon CloudWatch" height="28" alt="Amazon CloudWatch"/> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" title="Prometheus" height="28" alt="Prometheus"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" title="Grafana" height="28" alt="Grafana"/> <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white" title="OpenTelemetry" height="28" alt="OpenTelemetry"/>
+</p>
 
 ### IA & Dados
 
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" title="Claude / Agentes de IA" height="28" alt="Claude"/>
-<img src="https://img.shields.io/badge/AI_Agents-6E56CF?style=flat-square&logo=openai&logoColor=white" title="AI Agents" height="28" alt="AI Agents"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Plotly_Dash-008DE4?style=flat-square&logo=plotly&logoColor=white" title="Plotly Dash" height="28" alt="Plotly Dash"/>
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" title="Pydantic" height="28" alt="Pydantic"/>
-
-<img src="https://img.shields.io/badge/LLMs-6E56CF?style=flat-square" title="LLMs" height="28" alt="LLMs"/>
-<img src="https://img.shields.io/badge/RAG-6E56CF?style=flat-square" title="RAG" height="28" alt="RAG"/>
-<img src="https://img.shields.io/badge/Context_Engineering-6E56CF?style=flat-square" title="Context Engineering" height="28" alt="Context Engineering"/>
-<img src="https://img.shields.io/badge/CLAUDE.md-6E56CF?style=flat-square" title="CLAUDE.md" height="28" alt="CLAUDE.md"/>
-<img src="https://img.shields.io/badge/AGENTS.md-6E56CF?style=flat-square" title="AGENTS.md" height="28" alt="AGENTS.md"/>
+<p align="left">
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" title="Claude / Agentes de IA" height="28" alt="Claude"/> <img src="https://img.shields.io/badge/AI_Agents-6E56CF?style=flat-square&logo=openai&logoColor=white" title="AI Agents" height="28" alt="AI Agents"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40" alt="Pandas"/> <img src="https://img.shields.io/badge/Plotly_Dash-008DE4?style=flat-square&logo=plotly&logoColor=white" title="Plotly Dash" height="28" alt="Plotly Dash"/> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" title="Pydantic" height="28" alt="Pydantic"/> <img src="https://img.shields.io/badge/LLMs-6E56CF?style=flat-square" title="LLMs" height="28" alt="LLMs"/> <img src="https://img.shields.io/badge/RAG-6E56CF?style=flat-square" title="RAG" height="28" alt="RAG"/> <img src="https://img.shields.io/badge/Context_Engineering-6E56CF?style=flat-square" title="Context Engineering" height="28" alt="Context Engineering"/> <img src="https://img.shields.io/badge/CLAUDE.md-6E56CF?style=flat-square" title="CLAUDE.md" height="28" alt="CLAUDE.md"/> <img src="https://img.shields.io/badge/AGENTS.md-6E56CF?style=flat-square" title="AGENTS.md" height="28" alt="AGENTS.md"/>
+</p>
 
 ### Qualidade & Ferramentas
 
-<img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" title="JUnit" height="28" alt="JUnit"/>
-<img src="https://img.shields.io/badge/pytest-0A9EDB?style=flat-square&logo=pytest&logoColor=white" title="pytest" height="28" alt="pytest"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="40" height="40" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="40" height="40" alt="IntelliJ IDEA"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" title="Jira" height="28" alt="Jira"/>
-<img src="https://img.shields.io/badge/Kanban-17A2B8?style=flat-square&logo=trello&logoColor=white" title="Kanban" height="28" alt="Kanban"/>
-
-<img src="https://img.shields.io/badge/Mockito-2C8EBB?style=flat-square" title="Mockito" height="28" alt="Mockito"/>
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" title="Jest" height="28" alt="Jest"/>
-<img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" title="Testing Library" height="28" alt="Testing Library"/>
-<img src="https://img.shields.io/badge/Integration_Tests-3769A8?style=flat-square" title="Integration Tests" height="28" alt="Integration Tests"/>
-<img src="https://img.shields.io/badge/ADR-555555?style=flat-square" title="ADR" height="28" alt="ADR"/>
-<img src="https://img.shields.io/badge/Code_Review-555555?style=flat-square" title="Code Review" height="28" alt="Code Review"/>
-<img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square" title="CI/CD" height="28" alt="CI/CD"/>
+<p align="left">
+<img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" title="JUnit" height="28" alt="JUnit"/> <img src="https://img.shields.io/badge/pytest-0A9EDB?style=flat-square&logo=pytest&logoColor=white" title="pytest" height="28" alt="pytest"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="40" height="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="40" height="40" alt="IntelliJ IDEA"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" title="Jira" height="28" alt="Jira"/> <img src="https://img.shields.io/badge/Kanban-17A2B8?style=flat-square&logo=trello&logoColor=white" title="Kanban" height="28" alt="Kanban"/> <img src="https://img.shields.io/badge/Mockito-2C8EBB?style=flat-square" title="Mockito" height="28" alt="Mockito"/> <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" title="Jest" height="28" alt="Jest"/> <img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" title="Testing Library" height="28" alt="Testing Library"/> <img src="https://img.shields.io/badge/Integration_Tests-3769A8?style=flat-square" title="Integration Tests" height="28" alt="Integration Tests"/> <img src="https://img.shields.io/badge/ADR-555555?style=flat-square" title="ADR" height="28" alt="ADR"/> <img src="https://img.shields.io/badge/Code_Review-555555?style=flat-square" title="Code Review" height="28" alt="Code Review"/> <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square" title="CI/CD" height="28" alt="CI/CD"/>
+</p>
 
 <br/>
 
