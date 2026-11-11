@@ -72,17 +72,6 @@ Atuação no desenvolvimento e manutenção de sistemas voltados para **vendas, 
 <tr>
 <td width="50%" valign="top">
 
-### 🎲 Arcana — Plataforma para Mesas de RPG
-
-Plataforma fullstack para mesas de RPG: usuários criam personagens, mestres administram mesas e participantes conversam e rolam dados em tempo real. Backend em **Java 17** e **Spring Boot**, autenticação JWT, WebSocket e persistência PostgreSQL; frontend em React e TypeScript.
-
-`Java 17` `Spring Boot` `React` `TypeScript` `PostgreSQL` `WebSocket` `JWT` `Docker`
-
-<a href="https://github.com/Matheuszy/Arcana-Chronicles">🔗 Ver repositório</a>
-
-</td>
-<td width="50%" valign="top">
-
 ### 🟢 Basilico — Management API
 
 API RESTful em **Java 17** com **Spring Boot**, seguindo **Arquitetura Hexagonal**, SOLID e Clean Code. Autenticação JWT, persistência PostgreSQL/MySQL e arquitetura pronta para escalar.
@@ -90,6 +79,17 @@ API RESTful em **Java 17** com **Spring Boot**, seguindo **Arquitetura Hexagonal
 `Java 17` `Spring Boot` `Hibernate/JPA` `PostgreSQL` `JUnit` `Mockito`
 
 <a href="https://github.com/Matheuszy/Basilico">🔗 Ver repositório</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎲 Arcana — Plataforma para Mesas de RPG
+
+Plataforma fullstack para mesas de RPG: usuários criam personagens, mestres administram mesas e participantes conversam e rolam dados em tempo real. Backend em **Java 17** e **Spring Boot**, autenticação JWT, WebSocket e persistência PostgreSQL; frontend em React e TypeScript.
+
+`Java 17` `Spring Boot` `React` `TypeScript` `PostgreSQL` `WebSocket` `JWT` `Docker`
+
+<a href="https://github.com/Matheuszy/Arcana-Chronicles">🔗 Ver repositório</a>
 
 </td>
 </tr>
@@ -116,6 +116,8 @@ Microserviço de pagamentos do ecossistema Alurafood, gerenciando transações c
 <a href="https://github.com/Matheuszy/microsservico-pagamento">🔗 Ver repositório</a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🧩 Java Microservices
@@ -127,8 +129,6 @@ Coleção de microsserviços desenvolvidos em **Java**, explorando arquitetura d
 <a href="https://github.com/Matheuszy/microsservi-os-java">🔗 Ver repositório</a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔵 Sentinel — Fraud Detection
@@ -140,6 +140,8 @@ Sistema de detecção de fraude usando **Python** e **Machine Learning**, com pi
 <a href="https://github.com/Matheuszy/Projeto-sentinel">🔗 Ver repositório</a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🟡 Credit Prediction & Analytics
@@ -151,8 +153,6 @@ Análise de dados e previsão de crédito com **Python**, **SQL** e **Machine Le
 <a href="https://github.com/Matheuszy/projeto-ML-previsao-dados-credito">🔗 Ver repositório</a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🧠 Smart Product Recommender
@@ -164,7 +164,9 @@ Engine de recomendação que decide o próximo passo do cliente combinando **4 a
 <a href="https://github.com/Matheuszy/srmart-recommender">🔗 Ver repositório</a>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 🤖 Code Connect — AI-Native Software Engineering
 
@@ -248,19 +250,13 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 
 ### Frontend & Mobile
 
-<div align="center">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" width="40" height="40" alt="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React Native" width="40" height="40" alt="React Native"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40" alt="TypeScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" alt="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40" alt="Node.js"/>
 
-</div>
-
 ### Backend
-
-<div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="40" height="40" alt="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" width="40" height="40" alt="Kotlin"/>
@@ -271,11 +267,7 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" width="40" height="40" alt="FastAPI"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" width="40" height="40" alt="Flask"/>
 
-</div>
-
 ### Arquitetura & Integrações
-
-<div align="center">
 
 <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=openapiinitiative&logoColor=white" title="REST APIs" height="28" alt="REST APIs"/>
 <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" title="WebSocket" height="28" alt="WebSocket"/>
@@ -284,21 +276,13 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" title="RabbitMQ" width="40" height="40" alt="RabbitMQ"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" title="Kafka" width="40" height="40" alt="Kafka"/>
 
-</div>
-
 ### Banco de Dados
-
-<div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40" alt="PostgreSQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40" alt="MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle" width="40" height="40" alt="Oracle"/>
 
-</div>
-
 ### Cloud & DevOps
-
-<div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="40" height="40" alt="Docker"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" width="40" height="40" alt="Kubernetes"/>
@@ -306,22 +290,14 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" title="GitHub Actions" height="28" alt="GitHub Actions"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width="40" height="40" alt="Linux"/>
 
-</div>
-
 ### Observabilidade
-
-<div align="center">
 
 <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" title="Amazon CloudWatch" height="28" alt="Amazon CloudWatch"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" title="Prometheus" height="28" alt="Prometheus"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" title="Grafana" height="28" alt="Grafana"/>
 <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white" title="OpenTelemetry" height="28" alt="OpenTelemetry"/>
 
-</div>
-
 ### IA & Dados
-
-<div align="center">
 
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" title="Claude / Agentes de IA" height="28" alt="Claude"/>
 <img src="https://img.shields.io/badge/AI_Agents-6E56CF?style=flat-square&logo=openai&logoColor=white" title="AI Agents" height="28" alt="AI Agents"/>
@@ -329,11 +305,7 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 <img src="https://img.shields.io/badge/Plotly_Dash-008DE4?style=flat-square&logo=plotly&logoColor=white" title="Plotly Dash" height="28" alt="Plotly Dash"/>
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" title="Pydantic" height="28" alt="Pydantic"/>
 
-</div>
-
 ### Qualidade & Ferramentas
-
-<div align="center">
 
 <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" title="JUnit" height="28" alt="JUnit"/>
 <img src="https://img.shields.io/badge/pytest-0A9EDB?style=flat-square&logo=pytest&logoColor=white" title="pytest" height="28" alt="pytest"/>
@@ -341,8 +313,6 @@ Monitoramento em tempo real com **Prometheus**, **Grafana** e **OpenTelemetry**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="40" height="40" alt="IntelliJ IDEA"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" title="Jira" height="28" alt="Jira"/>
 <img src="https://img.shields.io/badge/Kanban-17A2B8?style=flat-square&logo=trello&logoColor=white" title="Kanban" height="28" alt="Kanban"/>
-
-</div>
 
 <br/>
 
