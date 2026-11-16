@@ -60,7 +60,7 @@ Atuação no desenvolvimento e manutenção de sistemas voltados para **vendas, 
 - Desenvolver **processamentos assíncronos e jobs em background** para rotinas financeiras e importação/exportação de dados.
 - Criar **testes unitários** e contribuir para a confiabilidade das funcionalidades desenvolvidas.
 - Utilizar **Docker** para padronização e execução dos ambientes.
-- Participar de processos de **deploy e investigação de problemas em produção** utilizando recursos da AWS.
+- Participar de processos de **deploy e investigação de problemas em produção** utilizando AWS
 - Trabalhar em conjunto com frontend e demais áreas para transformar requisitos de negócio em soluções técnicas.
 
 `Java` `Kotlin` `Spring Boot` `REST API` `React` `React Native` `PostgreSQL` `Docker` `AWS` `JUnit` `Jest` `Integrações` `Sistemas Financeiros`
