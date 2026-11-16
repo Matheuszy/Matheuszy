@@ -108,7 +108,7 @@ Sistema de Gestão de Estoque e PDV **multi-tenant**, desenvolvido em Java e Spr
 </td>
 <td width="50%" valign="top">
 
-### 💳 Microsserviço Pagamento — Alurafood
+### 💳 Microsserviço Pagamento
 
 Microserviço de pagamentos do ecossistema Alurafood, gerenciando transações com PIX, Crédito e Débito. Implementa comunicação via Feign Client e integração com Service Discovery (Eureka).
 
